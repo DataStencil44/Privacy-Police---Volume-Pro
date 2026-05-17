@@ -67,4 +67,4 @@ changes will be reflected in the extension's store listing.
 ## Contact
 
 For questions about this privacy policy, contact the developer at:
-**knyshbohdan44@gmail.com**
+**datasten77@gmail.com**
